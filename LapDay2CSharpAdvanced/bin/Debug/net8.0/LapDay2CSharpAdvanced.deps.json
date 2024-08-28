@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LapDay2CSharpAdvanced/1.0.0": {
+        "runtime": {
+          "LapDay2CSharpAdvanced.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LapDay2CSharpAdvanced/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
