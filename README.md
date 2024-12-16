@@ -45,7 +45,7 @@ The document is a summary of advanced C# assignments that cover various programm
     > implements the IComparable\<T\> interface to allow for
     > comparisons.
 
-2. You are given an **ArrayList** containing a sequence of
+[2] You are given an **ArrayList** containing a sequence of
 elements. try to reverse the order of elements in the **ArrayList**
 in-place(in the same arrayList) without using the built-in **Reverse**.
 Implement a function that takes the **ArrayList** as input and modifies
