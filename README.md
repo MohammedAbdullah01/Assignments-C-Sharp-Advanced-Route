@@ -53,3 +53,47 @@ The document is a summary of advanced C# assignments that cover various programm
 
 3. You are given a list of integers. Your task is to find and return a
    new list containing only the even numbers from the given list.
+
+   ---
+
+   **Assignment 2 C# Advanced**
+
+1)Given a string, find the first non-repeated character in it and return
+its index. If there is no such character, return -1. Hint you can use
+dictionary
+
+1.  **Considering the Code Below, Write Down the Body of all Listed
+    Methods and Properties and Constructor:**
+
+> ![A computer screen shot of text Description automatically
+> generated](media/image1.png){width="6.0in"
+> height="3.798611111111111in"}
+
+![A screen shot of a computer Description automatically
+generated](media/image2.png){width="4.172916666666667in"
+height="2.801388888888889in"}
+
+}
+
+}
+
+> **2.You need to parameterize ProcessBooks function to accept
+> BookFunctions Methods using following cases: **
+
+a.  Create User Defined Delegate with the same signature of methods
+    existed in Bookfunctions class.
+
+<!-- -->
+
+a.  Use the Proper build in delegate. 
+
+<!-- -->
+
+a.  Anonymous Method (GetISBN).
+
+<!-- -->
+
+a.  Lambda Expression (GetPublicationDate).
+
+![A computer code with text Description automatically
+generated](media/image3.png){width="5.5in" height="2.204861111111111in"}
