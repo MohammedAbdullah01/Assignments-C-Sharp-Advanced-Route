@@ -29,27 +29,27 @@ The document is a summary of advanced C# assignments that cover various programm
 
 > Requirements:
 
-1.  Create a generic class named Range\<T\> where T represents the type
+-  Create a generic class named Range\<T\> where T represents the type
     > of values.
 
-2.  Implement a constructor that takes the minimum and maximum values to
+-  Implement a constructor that takes the minimum and maximum values to
     > define the range.
 
-3.  Implement a method IsInRange(T value) that returns true if the
+-  Implement a method IsInRange(T value) that returns true if the
     > given  value is within the range, otherwise false.
 
-4.  Implement a method Length() that returns the length of the range
+-  Implement a method Length() that returns the length of the range
     > (the difference between the maximum and minimum values).
 
-5.  Note: You can assume that the type T used in the Range\<T\> class
+-  Note: You can assume that the type T used in the Range\<T\> class
     > implements the IComparable\<T\> interface to allow for
     > comparisons.
 
-[2] You are given an **ArrayList** containing a sequence of
-elements. try to reverse the order of elements in the **ArrayList**
-in-place(in the same arrayList) without using the built-in **Reverse**.
-Implement a function that takes the **ArrayList** as input and modifies
-it to have the reversed order of elements.
+2.  You are given an **ArrayList** containing a sequence of
+    elements. try to reverse the order of elements in the **ArrayList**
+    in-place(in the same arrayList) without using the built-in **Reverse**.
+    Implement a function that takes the **ArrayList** as input and modifies
+    it to have the reversed order of elements.
 
-3.You are given a list of integers. Your task is to find and return a
-new list containing only the even numbers from the given list.
+3. You are given a list of integers. Your task is to find and return a
+   new list containing only the even numbers from the given list.
