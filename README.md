@@ -56,7 +56,7 @@ The document is a summary of advanced C# assignments that cover various programm
 
    ---
 
-   **Assignment 2 C# Advanced**
+**Assignment 2 C# Advanced**
 
 1)Given a string, find the first non-repeated character in it and return
 its index. If there is no such character, return -1. Hint you can use
